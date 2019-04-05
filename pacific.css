@@ -1,0 +1,49 @@
+/*--Project Name: JavaJam Web Site (HW10)
+    Author:Jemia Battle
+    Date Last Modified: April 5, 2019*/
+
+
+body {background-color: #FFFFFF;
+         color:#666666;
+         font-family: "Georgia";
+         font-size:16px;
+         font-style:bold;
+         line-height: 200%;
+         list-style-position: inside;}
+
+h1    { background-color:#000033;
+          color: #FFFFFF;
+          line-height: 200%; }
+
+nav   { background-color:#90C7E3;
+        font-style:bold;
+        font-size:18px;}
+
+h2    { color: #03BCDF;
+        font-size: 24px;}
+
+address  { position: fixed;
+           left: 10;
+           bottom: 0;
+           width: 100%;
+           font-size: 12px;
+           line-height: 100%;}
+
+footer{ position: fixed;
+        left: 10;
+        bottom: 0;
+        width: 100%;
+       font-size: 12px;
+       font-style: italic;
+       text-align: center;
+       line-height: 100%;}
+
+.resort { color: #000033;
+		  font-size: 1.2em;
+ 
+#wrapper
+{
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+}
